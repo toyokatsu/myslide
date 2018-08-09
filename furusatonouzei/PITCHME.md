@@ -14,7 +14,7 @@
 +++
 
 #### 全体の流れ
-![LINK TEXT](https://github.com/toyokatsu/myslide/blob/master/furusatonouzei/gaiyouzu.jpg?raw=true "仕組")
+![LINK TEXT](https://www.satofull.jp/static/packages/default/images/instruction/tax_payment_structure.jpg "仕組")
 <PRE>①ふるさと納税先に寄付をする
 ②納税先からお礼品と受領書が届く
 ③確定申告をする
