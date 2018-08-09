@@ -5,13 +5,18 @@
 +++
 
 ### ふるさと納税の仕組み
+![gist](https://github.com/toyokatsu/myslide/edit/master/furusatonouzei/gaiyouzu.jpg)
 1. 寄付を地方自治体に行う
 2. ふるさと納税先団体からお礼品が届き、しばらくすると、寄付を証明する「受領書（寄附金受領証明書）」が送付される
+- (続く)
+
++++
+
+- (続き)
 3. 寄付後、「確定申告」の手続きをする
  ※寄付者の収入等により寄付の上限額（控除上限額）が定まるといった条件有り
 4. 所得税の還付や個人住民税の控除が受けられ、実質的な自己負担額を2,000円にすることができる
  所得税の場合は当年分から、個人住民税の場合、翌年6月以降分から減額される
-![gist](https://github.com/toyokatsu/myslide/edit/master/furusatonouzei/gaiyouzu.jpg)
 
 +++
 
