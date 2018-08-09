@@ -1,5 +1,5 @@
 ### ふるさと納税とは
-- 「納税」という名称だが、地方自治体への<br>
+- <font color="red">「納税」</font>という名称だが、地方自治体への<br>
 <font color="red">「寄付」</font>を通じて地域創生に参加できる制度のこと
 - 好きな自治体に寄付金を贈ることで「お礼品」を貰えるのが特徴
 
@@ -7,7 +7,7 @@
 
 ### ふるさと納税の仕組み
 
-![LINK TEXT](https://github.com/toyokatsu/myslide/edit/master/furusatonouzei/gaiyouzu.jpg "仕組")
+![LINK TEXT](https://github.com/toyokatsu/myslide/blob/master/furusatonouzei/gaiyouzu.jpg?raw=true "仕組")
 
 ①寄付を地方自治体に行う
 ②ふるさと納税先団体からお礼品が届き、しばらくすると、寄付を証明する「受領書（寄附金受領証明書）」が送付される
