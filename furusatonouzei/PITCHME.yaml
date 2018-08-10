@@ -1,5 +1,5 @@
-lauout : top-left
-transition : none
+layout : top-left
+#transition : none
 
 #テーマの設定
 theme : beige
