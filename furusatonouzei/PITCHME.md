@@ -49,7 +49,7 @@
 
 - 控除上限額は[総務省のHP](http://www.soumu.go.jp/main_sosiki/jichi_zeisei/czaisei/czaisei_seido/furusato/mechanism/deduction.html#block02)で確認できる
   
-#### 例）
+#### 例えば・・・
 - 夫婦＋高校生１人＋年収725万　 → 上限 82,000
 - 共働き＋高校生１人＋年収725万 → 上限104,000
 - 夫婦＋高校生１人＋年収750万　 → 上限 87,000
